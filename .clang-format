@@ -1,0 +1,10 @@
+BasedOnStyle: Microsoft
+
+ColumnLimit: '110'
+AccessModifierOffset: '-4'
+AlwaysBreakTemplateDeclarations: 'Yes'
+BreakConstructorInitializers: BeforeComma
+
+PenaltyBreakBeforeFirstCallParameter: '100'
+BinPackArguments: false
+BinPackParameters: false
